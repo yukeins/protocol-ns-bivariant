@@ -3,6 +3,7 @@
 [![Lean 4](https://img.shields.io/badge/Lean-4.34.1-blue.svg)](https://leanprover.github.io/)
 [![Mathlib](https://img.shields.io/badge/Mathlib-verified-green.svg)](https://github.com/leanprover-community/mathlib4)
 [![Build Status](https://img.shields.io/badge/lake%20build-passing-brightgreen.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23322905.svg)](https://doi.org/10.5281/zenodo.23322905)
 
 This repository contains the rigorous Lean 4 formalization of global regularity for the 3D incompressible Navier–Stokes equations via helical triadic spectral geometry and non-autonomous Riccati invariance.
 
@@ -78,10 +79,11 @@ Every Lean theorem in this library maps 1-to-1 with the analytical proof in the 
 
 ```bibtex
 @software{Z_G_ProtocolNS_2026,
-  author = {Z. G., R. Santiago},
-  title = {{Bivariant Helical Navier--Stokes Theory: Formalized Library in Lean 4}},
-  year = {2026},
-  url = {https://github.com/yukeins/protocol-ns-bivariant}
+  author    = {Z. G., R. Santiago},
+  title     = {{Bivariant Helical Navier--Stokes Theory: Formalized Library in Lean 4}},
+  year      = {2026},
+  doi       = {10.5281/zenodo.23322905},
+  url       = {https://doi.org/10.5281/zenodo.23322905}
 }
 ```
 
